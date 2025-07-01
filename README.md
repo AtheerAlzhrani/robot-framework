@@ -1,15 +1,17 @@
-# User Supplied Variables
+# 🧪 User Supplied Variables
 
-## Purpose:
+## 📌 Purpose
 
-Learn how to create and use variables.
+This project demonstrates how to create and use variables in Robot Framework using the `Variables` section and external variable files.
 
-## Learning Objectives:
+The goal is to:
+- Understand the different types of variables in Robot Framework 
+- Learn how to define variables in `.robot` files and import them from Python 
+- Improve test reusability and maintainability by centralizing test data
 
-- Trainees will define what a variable is and its uses
-- Trainees will create and use a variable
-- Trainees will be able to restate the block variables are used in
-- Trainees will be able to create a variable inline and assign a value
 
-## Challenge:
-Use variables in place of literals in test. Use a variable block if you like. (15 min)
+
+
+
+
+
